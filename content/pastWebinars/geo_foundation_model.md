@@ -19,7 +19,7 @@ summary = '''Foundation models are artificial intelligence (AI) models that are 
     
 +++
 
-![flyer](/img/banners/gfm-webinar.jpg)
+![flyer](img/banners/gfm-webinar.jpg)
 --------------------------------------
 
 
